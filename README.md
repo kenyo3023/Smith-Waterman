@@ -1,1 +1,2 @@
-# Smith-Waterman
+# Smith-Waterman Implementation
+
